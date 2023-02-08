@@ -82,7 +82,8 @@ I am a  Software Engineer - Artificial Intelligence Student <img src="https://me
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=niyanta02)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=niyanta02&theme=dark)](https://git.io/streak-stats)
+
 
 
 
