@@ -63,6 +63,26 @@ I am a  Software Engineer - Artificial Intelligence Student <img src="https://me
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Niyanta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niyanta-742550143/)
 
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+   <img src="https://cdn-icons-png.flaticon.com/512/4616/4616809.png" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src="https://miro.medium.com/max/418/1*jF0godKvSrD7yZ7D7_SdKw.png" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src="https://c8.alamy.com/comp/W4C7G3/machine-learning-thin-line-icon-creative-simple-design-from-artificial-intelligence-icons-collection-outline-machine-learning-icon-for-web-design-W4C7G3.jpg" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src="https://thumbs.dreamstime.com/b/deep-learning-icon-flat-sign-element-data-analytics-collection-creative-web-design-templates-color-project-227550287.jpg" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+
+
+
+
 
 
 
