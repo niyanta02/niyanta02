@@ -48,6 +48,23 @@ Here are some ideas to get you started:
 </div>
 
 
+---
+
+### :woman_technologist: About Me :
+
+I am a  Software Engineer - Artificial Intelligence Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Centennial College.
+
+- :telescope: I’m currently studing Software Engineering Artificial Intelligence | Passionate about Data and its Possibilities | Hackathon 2020 Winner
+
+- :seedling: I'm always eager to learn new technologies and develop new skills.
+
+- :zap: In my free time, I love to play games and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Niyanta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niyanta-742550143/)
+
+
+
+
 
 
 
